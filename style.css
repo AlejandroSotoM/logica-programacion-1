@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Para que el h1 y p estén en columna */
+    text-align: center; /* Centra el texto dentro de cada bloque */
+}
